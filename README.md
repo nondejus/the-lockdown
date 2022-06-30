@@ -1,1 +1,13 @@
 # internet-lockdown-of-he-netherlands
+
+# inspector gadget
+https://en.wikipedia.org/wiki/Inspector_Gadget
+
+# internet
+https://en.wikipedia.org/wiki/Internet
+
+# media park
+https://en.wikipedia.org/wiki/Media_Park_(Hilversum)
+
+# staat der nederlanden
+https://nl.wikipedia.org/wiki/Staat_der_Nederlanden
